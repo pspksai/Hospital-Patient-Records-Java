@@ -28,4 +28,5 @@ updating patient information, and deleting records.
 - File handling for permanent storage
 - Database integration using MySQL
 - Spring Boot REST API
-- and i add frontend part and i make as a fullstack project 
+- adding frontend and React 
+  
